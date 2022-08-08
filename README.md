@@ -25,3 +25,6 @@ Make sure to have pico-sdk in a parellel directory to the blinky directory conta
 Then copy the blinky.uf2 file over to the RP2040 while in flash mode (which can be set by holding BOOTSEL during connection with microusb)
 
 Done!
+
+# Live Demo
+https://user-images.githubusercontent.com/41162160/183433377-92fee44b-3235-46ca-b9eb-19d1a28c9ea4.mp4
